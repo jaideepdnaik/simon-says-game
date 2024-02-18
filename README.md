@@ -1,4 +1,4 @@
-# simon-says-game
+# Simon-Says-Game
 
 Welcome to the classic Simon Says game! Test your memory and reflexes with this fun and addictive game.
 
