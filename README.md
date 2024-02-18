@@ -23,3 +23,6 @@ How to Play:
 How Good Is Your Memory?
 
 Put your memory to the test and see how far you can go in Simon Says. Can you beat the highest level?
+
+
+Wanna play this game? Click here. https://game-simonsay.netlify.app/
